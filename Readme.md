@@ -23,4 +23,5 @@ It showcases the company profile, services, projects, and allows clients to uplo
 3. Right-click `index.html` → **Open with Live Server**.  
 
 # Live Demo
+https://liruiltd.netlify.app/
 
